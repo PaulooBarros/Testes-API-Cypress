@@ -90,3 +90,12 @@ Microserviços são uma abordagem arquitetônica para o desenvolvimento de softw
 - **RESTFUL**: Aplicação completa dos padrões REST.
 - **Microserviços**: Abordagem arquitetônica onde uma aplicação é composta por serviços pequenos e independentes, facilitando a escalabilidade e manutenção.
 
+O protocolo HTTP é baseado em um modelo de requisição/resposta e opera sem estado, permitindo comunicação entre clientes e servidores na web.
+
+GET: Recupera dados do servidor sem modificar o estado.
+
+POST: Envia dados ao servidor, geralmente para criar ou atualizar recursos.
+
+PUT: Atualiza um recurso existente no servidor com os dados fornecidos.
+
+DELETE: Remove um recurso específico no servidor.
